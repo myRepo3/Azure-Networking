@@ -1,0 +1,6 @@
+*.pdf
+*.zip
+*.pem
+*.doc
+*.gdoc
+*.exe
